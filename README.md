@@ -5,3 +5,8 @@ Where I document what I've learned about user experience.
 - [ ] Api poops out
 - [ ] Connection is lost
 - [ ] User closes the window
+
+---
+
+- Bullet point
+*italics*
