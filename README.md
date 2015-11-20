@@ -14,3 +14,12 @@ https://medium.com/@__smp/squarespace-a-guerilla-usability-test-c5f70b708b82#.3s
 - Don’t need options until relevant.
 - Create a thesaurus of terms so that people who have used other products can apply previous mental models and still  find aid in the supporting documentation.
 - Browser Navigation - When used give message suggesting likely things they’re trying to find?  
+
+
+##[Onboarding First Date](http://www.dtelepathy.com/blog/design/ux-flows-onboarding)
+
+- As charming as possible, don’t talk their ear off
+- Tell them only what they need to know, in as few words as possible.
+- Be witty and delightful
+- This is the IKEA build manual with an ulterior motive - to use the chair
+
