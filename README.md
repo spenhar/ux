@@ -29,14 +29,13 @@ A collection of research done before nailing The Grid onboarding flow
 
 
 
-##Intro Tutorial vs. Tooltipping vs. Landing Page
-
-Videos and Joyriding/walkthru doesn't require much of the user to take action and therefore they're not learning anything. 
+##Intro Tutorial vs. Tooltipping vs. Landing Page 
 
 Approaches:
-- Joyriding
+- Joyriding - Videos/joyriding don't require much of the user to take action and not learning anything.
 - Do something
-- Setup process (Pinterest)
+- 'Setup' Approach
+  - Pinterest
 
 
 
